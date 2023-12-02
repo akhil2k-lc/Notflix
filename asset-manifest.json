@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notflix/static/css/main.ce7f6afa.css",
+    "main.js": "/Notflix/static/js/main.857b91d4.js",
+    "index.html": "/Notflix/index.html",
+    "main.ce7f6afa.css.map": "/Notflix/static/css/main.ce7f6afa.css.map",
+    "main.857b91d4.js.map": "/Notflix/static/js/main.857b91d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7f6afa.css",
+    "static/js/main.857b91d4.js"
+  ]
+}
